@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52d26ede-bfe5-4890-8e39-f2d6d0661937": {
+      "ProjectGuid": "52d26ede-bfe5-4890-8e39-f2d6d0661937",
+      "DisplayName": "motor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
